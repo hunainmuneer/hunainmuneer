@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm a Data Analyst plus a Data-Scientist Rookie
+I'm currently working on analyzing "Housing Crisis in Canada" :soon:
 
 
 ## 🌐 Socials:
