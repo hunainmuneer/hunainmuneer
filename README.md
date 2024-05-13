@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Data Analyst plus a Data-Scientist Rookie
+
 Hi there! I'm Hunain, a Data Analyst who is passionate about leveraging data to drive meaningful impact for organizations and individuals. Welcome to my GitHub profile!
 
 
