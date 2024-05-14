@@ -2,6 +2,7 @@
 
 Hi there! I'm Hunain, a Data Analyst who is passionate about leveraging data to drive meaningful impact for organizations and individuals. Welcome to my GitHub profile!
 
+![](Data_Analyst_Associate.png)
 
 I'm currently working on analyzing ["Housing Crisis in Canada"](https://github.com/hunainmuneer/housing-crisis-in-canada) :soon:
 
