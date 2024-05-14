@@ -4,7 +4,7 @@ Hi there! I'm Hunain, a Data Analyst who is passionate about leveraging data to 
 
 ![](Data_Analyst_Associate.png)
 
-⚙️Skills
+## ⚙️Skills
 - **Programming Languages:**
   - Python: ⭐⭐ (Intermediate)
   - SQL: ⭐⭐⭐ (Advanced)
@@ -17,11 +17,15 @@ Hi there! I'm Hunain, a Data Analyst who is passionate about leveraging data to 
 - **Spreadsheet:**
    - MS Excel ⭐⭐⭐
 
-
+## Proficiency 
 - Python : Utilizes Python for data collection, data clearning, exploratory data anlysis and advanced analytics.
 - SQL : Proficient in querying, cleaning and manipulating data with SQL.
 - Tableau and Power BI : Develops interactive dashboards using Tableau or Power BI.
 - Excel : Generates reports and performs data analysis using MS Excel.
+
+## 🖇️Projects
+
+- View my projects [here](https://github.com/hunainmuneer?tab=repositories)
    
 I'm currently working on analyzing ["Housing Crisis in Canada"](https://github.com/hunainmuneer/housing-crisis-in-canada) :soon:
 
