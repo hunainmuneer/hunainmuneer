@@ -11,11 +11,12 @@ Hi there! I'm Hunain, a Data Analyst who is passionate about leveraging data to 
 - **Database:**
    - PostgreSQL ⭐⭐⭐
    - MySQL ⭐⭐⭐
-- **Visualization:**
+- **Business Intelligence Tools:**
    - Power BI ⭐⭐⭐
    - Tableau ⭐⭐⭐
 - **Spreadsheet:**
    - MS Excel ⭐⭐⭐
+   - Google Sheets ⭐⭐⭐
 
 ## Proficiency 
 - Python : Utilizes Python for data collection, data clearning, exploratory data anlysis and advanced analytics.
