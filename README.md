@@ -24,10 +24,12 @@ Hi there! I'm Hunain, a Data Analyst who is passionate about leveraging data to 
 - Tableau and Power BI : Develops interactive dashboards using Tableau or Power BI.
 - Excel : Generates reports and performs data analysis using MS Excel.
 
-## 🖇️Projects
+## 🖇️Portfolio & Projects
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?logo=Firefox&logoColor=white)](https://hunainmuneer.wixsite.com/hunain-muneer)
 
 - View my projects [here](https://github.com/hunainmuneer?tab=repositories)
-   
+
 I'm currently working on analyzing ["Housing Crisis in Canada"](https://github.com/hunainmuneer/housing-crisis-in-canada) :soon:
 
 ## 🌐 Socials:
